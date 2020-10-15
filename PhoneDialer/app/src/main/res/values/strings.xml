@@ -1,4 +1,5 @@
 <resources>
+    <!-- MainActivity-->
     <color name="black">#000000</color>
     <color name="white">#FFFFFF</color>
     <color name="pink">#00b3b3</color>
@@ -24,5 +25,12 @@
     <string name="zero">0</string>
     <string name="hashtag">#</string>
     <string name="dial">Dial</string>
+
+
+    <!-- Add Contact Activity-->
+    <string name="title">Add Contact</string>
+    <string name="name_hint">Name</string>
+    <string name="number_hint">Number</string>
+    <string name="add_button">ADD</string>
 
 </resources>
