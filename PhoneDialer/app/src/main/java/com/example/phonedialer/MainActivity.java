@@ -64,7 +64,6 @@ public class MainActivity extends AppCompatActivity {
         else {
             Intent intent = new Intent(this, AddContact.class);
             intent.putExtra(EXTRA_ID, choosen_memory.getId());
-            startActivity(intent);
             startActivityForResult(intent, ADD_CONTACT_ACTIVITY);
         }
     }
@@ -77,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
                 if (resultCode == Activity.RESULT_OK) {
                     String name = data.getStringExtra(AddContact.EXTRA_NAME);
                     String number = data.getStringExtra(AddContact.EXTRA_NUMBER);
-                    int button_id=data.getIntExtra("button_id",0);
+                    int button_id=data.getIntExtra(EXTRA_ID,0);
                     Contacts.put(name,number);
                     Button choosen_memory= (Button) findViewById(button_id);
                     choosen_memory.setText(name);
