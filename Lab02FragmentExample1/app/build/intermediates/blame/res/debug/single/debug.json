@@ -436,10 +436,6 @@
         "source": "C:\\Users\\Lenovo\\Desktop\\ICM\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\55ffb995163493ecc6f4efac56f69d34\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\Desktop\\ICM\\rep\\ICM\\Lab02FragmentExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\Lenovo\\Desktop\\ICM\\caches\\transforms-1\\files-1.1\\support-compat-26.0.1.aar\\210eb54a58150853c38221322013209a\\res\\layout\\notification_template_custom_big.xml"
-    },
-    {
         "merged": "C:\\Users\\Lenovo\\Desktop\\ICM\\rep\\ICM\\Lab02FragmentExample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Lenovo\\Desktop\\ICM\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\55ffb995163493ecc6f4efac56f69d34\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
@@ -1010,6 +1006,10 @@
     {
         "merged": "C:\\Users\\Lenovo\\Desktop\\ICM\\rep\\ICM\\Lab02FragmentExample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\Lenovo\\Desktop\\ICM\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\55ffb995163493ecc6f4efac56f69d34\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\ICM\\rep\\ICM\\Lab02FragmentExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_simple.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\ICM\\rep\\ICM\\Lab02FragmentExample1\\app\\src\\main\\res\\layout\\fragment_simple.xml"
     },
     {
         "merged": "C:\\Users\\Lenovo\\Desktop\\ICM\\rep\\ICM\\Lab02FragmentExample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",

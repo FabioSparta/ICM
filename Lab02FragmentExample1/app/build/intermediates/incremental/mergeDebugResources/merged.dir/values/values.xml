@@ -534,6 +534,7 @@
     <string name="article2">At the same session, the Beatles played on “My Bonnie” (the first-ever single with Beatles playing), as the backing band for English singer Tony Sheridan, originally a member of the Jets. The popularity of this single in Liverpool brought the Beatles to the attention of Brian Epstein, who worked in the NEMS record store and tried to meet demand for the disc. John Lennon then sings a fine “Ain’t She Sweet” (his first-ever released vocal).</string>
     <string name="close">Close</string>
     <string name="exception_message">must implement OnFragmentInteractionListener</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="no">No</string>
     <string name="no_message">ARTICLE: Thanks</string>
     <string name="open">Open</string>
