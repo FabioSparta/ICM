@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Oct 28 01:11:48 GMT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Lenovo\\Desktop\\ICM\\rep\\ICM\\Lab02FragmentCommunicate\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

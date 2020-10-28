@@ -1,0 +1,4 @@
+#Wed Oct 28 01:11:48 GMT 2020
+base.0=C\:\\Users\\Lenovo\\Desktop\\ICM\\rep\\ICM\\Lab02FragmentCommunicate\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
