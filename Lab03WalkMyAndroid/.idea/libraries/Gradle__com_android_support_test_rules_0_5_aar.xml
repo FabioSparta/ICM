@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.test:rules:0.5@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/rules-0.5.aar/97801e2d182ea8a43e2d5a27c8eb8f7b/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/rules-0.5.aar/97801e2d182ea8a43e2d5a27c8eb8f7b/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/rules-0.5.aar/97801e2d182ea8a43e2d5a27c8eb8f7b/res" />
+      <root url="file://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/rules-0.5.aar/97801e2d182ea8a43e2d5a27c8eb8f7b/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../caches/modules-2/files-2.1/com.android.support.test/rules/0.5/eb0523edeca93697d4c4b767277b407ed5920258/rules-0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
