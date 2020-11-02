@@ -1,13 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:animated-vector-drawable:26.1.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e9bc74f95730e0fd574fc79b5e4761d0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e9bc74f95730e0fd574fc79b5e4761d0/res" />
-      <root url="file://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e9bc74f95730e0fd574fc79b5e4761d0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6ddf2b347deae3f5a356af085ac38d9f/res" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/d88065ea8298896838d8a42970099a89/res" />
+      <root url="jar://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/d88065ea8298896838d8a42970099a89/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/d88065ea8298896838d8a42970099a89/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/modules-2/files-2.1/com.android.support/animated-vector-drawable/26.1.0/91743e9b07667784f471a3c4748e6883cd810084/animated-vector-drawable-26.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/ICM/caches/modules-2/files-2.1/com.android.support/animated-vector-drawable/26.1.0/91743e9b07667784f471a3c4748e6883cd810084/animated-vector-drawable-26.1.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

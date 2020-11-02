@@ -1,13 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:support-core-utils:26.1.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/aaafaf0f9fa900781072c6d676aad53a/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/aaafaf0f9fa900781072c6d676aad53a/res" />
-      <root url="file://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/aaafaf0f9fa900781072c6d676aad53a/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f6d86317f48ccb80fd85ac4ec7c68f10/res" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bda7235821b84f4b75af8de854e255b5/res" />
+      <root url="jar://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bda7235821b84f4b75af8de854e255b5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bda7235821b84f4b75af8de854e255b5/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/modules-2/files-2.1/com.android.support/support-core-utils/26.1.0/2b0c3da7f80880bbf365452b354490a77f085c96/support-core-utils-26.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/ICM/caches/modules-2/files-2.1/com.android.support/support-core-utils/26.1.0/2b0c3da7f80880bbf365452b354490a77f085c96/support-core-utils-26.1.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

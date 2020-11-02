@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:support-compat:26.1.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9d82e6e62f2ced494954a91933b89ad8/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9d82e6e62f2ced494954a91933b89ad8/res" />
-      <root url="file://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9d82e6e62f2ced494954a91933b89ad8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2c9991d63d2cccf69a140f971545ff45/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2c9991d63d2cccf69a140f971545ff45/res" />
+      <root url="jar://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2c9991d63d2cccf69a140f971545ff45/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/modules-2/files-2.1/com.android.support/support-compat/26.1.0/73bfdb5cca1949a51219d3676700996990ea3b52/support-compat-26.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/ICM/caches/modules-2/files-2.1/com.android.support/support-compat/26.1.0/73bfdb5cca1949a51219d3676700996990ea3b52/support-compat-26.1.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

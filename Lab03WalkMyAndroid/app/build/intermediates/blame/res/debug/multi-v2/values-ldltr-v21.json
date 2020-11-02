@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Lenovo\\Desktop\\ICM\\rep\\ICM\\Lab03WalkMyAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "outputFile": "C:\\Users\\Lenovo\\AndroidStudioProjects\\Lab03WalkMyAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Lenovo\\Desktop\\ICM\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\51b50c0887c4104c8dc6208648d7d65e\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "source": "C:\\Users\\Lenovo\\Desktop\\ICM\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d0c464a7e058375bf9f3f8771e462175\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

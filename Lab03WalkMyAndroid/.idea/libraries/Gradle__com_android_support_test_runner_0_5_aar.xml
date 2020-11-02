@@ -1,16 +1,17 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support.test:runner:0.5@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/runner-0.5.aar/18d7d8e9ce5382596a6b0e7159471ddc/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/runner-0.5.aar/3798c8a5a47001eaefdf6f18f00b2bde/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/runner-0.5.aar/18d7d8e9ce5382596a6b0e7159471ddc/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/runner-0.5.aar/18d7d8e9ce5382596a6b0e7159471ddc/res" />
-      <root url="file://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/runner-0.5.aar/18d7d8e9ce5382596a6b0e7159471ddc/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/runner-0.5.aar/0267fdb7eac6c2acd1fc9f5646758194/res" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/runner-0.5.aar/3798c8a5a47001eaefdf6f18f00b2bde/res" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/runner-0.5.aar/3798c8a5a47001eaefdf6f18f00b2bde/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/runner-0.5.aar/3798c8a5a47001eaefdf6f18f00b2bde/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/modules-2/files-2.1/com.android.support.test/runner/0.5/d13156b1f4d8dc7013cd8b3b1284b22bd3b44d23/runner-0.5-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/ICM/caches/modules-2/files-2.1/com.android.support.test/runner/0.5/d13156b1f4d8dc7013cd8b3b1284b22bd3b44d23/runner-0.5-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

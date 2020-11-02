@@ -1,13 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:support-v4:26.1.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/support-v4-26.1.0.aar/14422e43d1703588ad1c8f738337cabf/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/support-v4-26.1.0.aar/14422e43d1703588ad1c8f738337cabf/res" />
-      <root url="file://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/support-v4-26.1.0.aar/14422e43d1703588ad1c8f738337cabf/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8093bc2158b7d2c567907be09e8ffc0e/res" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1085fd9ced4fd634cfcb4daa8124cdae/res" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1085fd9ced4fd634cfcb4daa8124cdae/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1085fd9ced4fd634cfcb4daa8124cdae/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/modules-2/files-2.1/com.android.support/support-v4/26.1.0/9c53eab3272b3b26583b17facac2e90d264b2788/support-v4-26.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/ICM/caches/modules-2/files-2.1/com.android.support/support-v4/26.1.0/9c53eab3272b3b26583b17facac2e90d264b2788/support-v4-26.1.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -1,13 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: android.arch.lifecycle:runtime:1.0.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/runtime-1.0.0.aar/54e1564f2bf01e3f9dfd2bfd03e68916/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/runtime-1.0.0.aar/54e1564f2bf01e3f9dfd2bfd03e68916/res" />
-      <root url="file://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/runtime-1.0.0.aar/54e1564f2bf01e3f9dfd2bfd03e68916/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/runtime-1.0.0.aar/2737bb4f4259e0ef23e4d84a4490e528/res" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/runtime-1.0.0.aar/87d0d3f0a89c460d3568ff9e829c570b/res" />
+      <root url="jar://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/runtime-1.0.0.aar/87d0d3f0a89c460d3568ff9e829c570b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/runtime-1.0.0.aar/87d0d3f0a89c460d3568ff9e829c570b/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/modules-2/files-2.1/android.arch.lifecycle/runtime/1.0.0/1dd0298d8c45d8dfa4d038270247327f23df7a3a/runtime-1.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/ICM/caches/modules-2/files-2.1/android.arch.lifecycle/runtime/1.0.0/1dd0298d8c45d8dfa4d038270247327f23df7a3a/runtime-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

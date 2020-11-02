@@ -1,150 +1,188 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
-INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
-INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
-INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\51b50c0887c4104c8dc6208648d7d65e\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\58418ed12143e28cc7bf090bb5d48a4f\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e9bc74f95730e0fd574fc79b5e4761d0\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fcca4735abf4ff591fcc354257fdfeac\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\14422e43d1703588ad1c8f738337cabf\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\68cb9bcb5df00fe24572ea07b9b7eca7\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c4b752fff3e60e24af5a0afd2d4a392f\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\aaafaf0f9fa900781072c6d676aad53a\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c77fa8170395340a3458da9b5f6fb947\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9d82e6e62f2ced494954a91933b89ad8\AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\runtime-1.0.0.aar\54e1564f2bf01e3f9dfd2bfd03e68916\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
-INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
-INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d0c464a7e058375bf9f3f8771e462175\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a9325028961ae1f6746fa3d225bc0cae\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-location-11.0.2.aar\e50fec9425d935dfd538818f87adcfe5\AndroidManifest.xml:2:1-5:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d88065ea8298896838d8a42970099a89\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d82729948ec64a7f60c50f7110be3d32\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ad9cb028f9f779d4a19e2e18f40779e9\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\e82ea1781e19d60a40f690f9c81d15b8\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\352415d1426104eb4f7d3a8d0ab12781\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1085fd9ced4fd634cfcb4daa8124cdae\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1c1a4f392c2152e721d0345e8ab44f87\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4b27f11d935bd195b978935dfadf1671\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21597da5351e958294f7c3089643e11c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bda7235821b84f4b75af8de854e255b5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2c9991d63d2cccf69a140f971545ff45\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\runtime-1.0.0.aar\87d0d3f0a89c460d3568ff9e829c570b\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
 	package
-		ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:17:5-48
-		INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:17:5-48
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
-		INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
-		INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:1-36:12
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:11-69
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:16:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:18:5-78
+	android:name
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:18:22-76
 application
-ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:19:5-34:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\51b50c0887c4104c8dc6208648d7d65e\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\51b50c0887c4104c8dc6208648d7d65e\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\58418ed12143e28cc7bf090bb5d48a4f\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\58418ed12143e28cc7bf090bb5d48a4f\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e9bc74f95730e0fd574fc79b5e4761d0\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e9bc74f95730e0fd574fc79b5e4761d0\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fcca4735abf4ff591fcc354257fdfeac\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fcca4735abf4ff591fcc354257fdfeac\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\14422e43d1703588ad1c8f738337cabf\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\14422e43d1703588ad1c8f738337cabf\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\68cb9bcb5df00fe24572ea07b9b7eca7\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\68cb9bcb5df00fe24572ea07b9b7eca7\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c4b752fff3e60e24af5a0afd2d4a392f\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c4b752fff3e60e24af5a0afd2d4a392f\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\aaafaf0f9fa900781072c6d676aad53a\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\aaafaf0f9fa900781072c6d676aad53a\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c77fa8170395340a3458da9b5f6fb947\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c77fa8170395340a3458da9b5f6fb947\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9d82e6e62f2ced494954a91933b89ad8\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9d82e6e62f2ced494954a91933b89ad8\AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\runtime-1.0.0.aar\54e1564f2bf01e3f9dfd2bfd03e68916\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\runtime-1.0.0.aar\54e1564f2bf01e3f9dfd2bfd03e68916\AndroidManifest.xml:24:5-28:19
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:19:5-34:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d0c464a7e058375bf9f3f8771e462175\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d0c464a7e058375bf9f3f8771e462175\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a9325028961ae1f6746fa3d225bc0cae\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a9325028961ae1f6746fa3d225bc0cae\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-location-11.0.2.aar\e50fec9425d935dfd538818f87adcfe5\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-location-11.0.2.aar\e50fec9425d935dfd538818f87adcfe5\AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d88065ea8298896838d8a42970099a89\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d88065ea8298896838d8a42970099a89\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d82729948ec64a7f60c50f7110be3d32\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d82729948ec64a7f60c50f7110be3d32\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ad9cb028f9f779d4a19e2e18f40779e9\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ad9cb028f9f779d4a19e2e18f40779e9\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\e82ea1781e19d60a40f690f9c81d15b8\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\e82ea1781e19d60a40f690f9c81d15b8\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\352415d1426104eb4f7d3a8d0ab12781\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\352415d1426104eb4f7d3a8d0ab12781\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1085fd9ced4fd634cfcb4daa8124cdae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1085fd9ced4fd634cfcb4daa8124cdae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1c1a4f392c2152e721d0345e8ab44f87\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1c1a4f392c2152e721d0345e8ab44f87\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4b27f11d935bd195b978935dfadf1671\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4b27f11d935bd195b978935dfadf1671\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21597da5351e958294f7c3089643e11c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21597da5351e958294f7c3089643e11c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bda7235821b84f4b75af8de854e255b5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bda7235821b84f4b75af8de854e255b5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2c9991d63d2cccf69a140f971545ff45\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2c9991d63d2cccf69a140f971545ff45\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\runtime-1.0.0.aar\87d0d3f0a89c460d3568ff9e829c570b\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\runtime-1.0.0.aar\87d0d3f0a89c460d3568ff9e829c570b\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:24:9-35
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:24:9-35
 	android:label
-		ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:22:9-41
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:22:9-41
 	android:roundIcon
-		ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:23:9-54
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:23:9-54
 	android:icon
-		ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:21:9-43
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:21:9-43
 	android:allowBackup
-		ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:20:9-35
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:20:9-35
 	android:theme
-		ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:25:9-40
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:25:9-40
 activity#com.example.android.walkmyandroid.MainActivity
-ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:26:9-32:20
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:26:9-32:20
 	android:name
-		ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:26:19-47
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:26:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:27:13-31:29
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:30:17-77
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml:30:27-74
 uses-sdk
-INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\51b50c0887c4104c8dc6208648d7d65e\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\51b50c0887c4104c8dc6208648d7d65e\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\58418ed12143e28cc7bf090bb5d48a4f\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\58418ed12143e28cc7bf090bb5d48a4f\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e9bc74f95730e0fd574fc79b5e4761d0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e9bc74f95730e0fd574fc79b5e4761d0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fcca4735abf4ff591fcc354257fdfeac\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fcca4735abf4ff591fcc354257fdfeac\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\14422e43d1703588ad1c8f738337cabf\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\14422e43d1703588ad1c8f738337cabf\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\68cb9bcb5df00fe24572ea07b9b7eca7\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\68cb9bcb5df00fe24572ea07b9b7eca7\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c4b752fff3e60e24af5a0afd2d4a392f\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c4b752fff3e60e24af5a0afd2d4a392f\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\aaafaf0f9fa900781072c6d676aad53a\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\aaafaf0f9fa900781072c6d676aad53a\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c77fa8170395340a3458da9b5f6fb947\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c77fa8170395340a3458da9b5f6fb947\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9d82e6e62f2ced494954a91933b89ad8\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9d82e6e62f2ced494954a91933b89ad8\AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\runtime-1.0.0.aar\54e1564f2bf01e3f9dfd2bfd03e68916\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\runtime-1.0.0.aar\54e1564f2bf01e3f9dfd2bfd03e68916\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d0c464a7e058375bf9f3f8771e462175\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d0c464a7e058375bf9f3f8771e462175\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a9325028961ae1f6746fa3d225bc0cae\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a9325028961ae1f6746fa3d225bc0cae\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-location-11.0.2.aar\e50fec9425d935dfd538818f87adcfe5\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-location-11.0.2.aar\e50fec9425d935dfd538818f87adcfe5\AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d88065ea8298896838d8a42970099a89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d88065ea8298896838d8a42970099a89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d82729948ec64a7f60c50f7110be3d32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d82729948ec64a7f60c50f7110be3d32\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ad9cb028f9f779d4a19e2e18f40779e9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ad9cb028f9f779d4a19e2e18f40779e9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\e82ea1781e19d60a40f690f9c81d15b8\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\e82ea1781e19d60a40f690f9c81d15b8\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\352415d1426104eb4f7d3a8d0ab12781\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\352415d1426104eb4f7d3a8d0ab12781\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1085fd9ced4fd634cfcb4daa8124cdae\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1085fd9ced4fd634cfcb4daa8124cdae\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1c1a4f392c2152e721d0345e8ab44f87\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1c1a4f392c2152e721d0345e8ab44f87\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4b27f11d935bd195b978935dfadf1671\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4b27f11d935bd195b978935dfadf1671\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21597da5351e958294f7c3089643e11c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21597da5351e958294f7c3089643e11c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bda7235821b84f4b75af8de854e255b5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bda7235821b84f4b75af8de854e255b5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2c9991d63d2cccf69a140f971545ff45\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2c9991d63d2cccf69a140f971545ff45\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\runtime-1.0.0.aar\87d0d3f0a89c460d3568ff9e829c570b\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\runtime-1.0.0.aar\87d0d3f0a89c460d3568ff9e829c570b\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\51b50c0887c4104c8dc6208648d7d65e\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d0c464a7e058375bf9f3f8771e462175\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Lenovo\Desktop\ICM\rep\ICM\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\Lab03WalkMyAndroid\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\51b50c0887c4104c8dc6208648d7d65e\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e9bc74f95730e0fd574fc79b5e4761d0\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e9bc74f95730e0fd574fc79b5e4761d0\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fcca4735abf4ff591fcc354257fdfeac\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fcca4735abf4ff591fcc354257fdfeac\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\14422e43d1703588ad1c8f738337cabf\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\14422e43d1703588ad1c8f738337cabf\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\68cb9bcb5df00fe24572ea07b9b7eca7\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\68cb9bcb5df00fe24572ea07b9b7eca7\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c4b752fff3e60e24af5a0afd2d4a392f\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c4b752fff3e60e24af5a0afd2d4a392f\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\aaafaf0f9fa900781072c6d676aad53a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\aaafaf0f9fa900781072c6d676aad53a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c77fa8170395340a3458da9b5f6fb947\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c77fa8170395340a3458da9b5f6fb947\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9d82e6e62f2ced494954a91933b89ad8\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9d82e6e62f2ced494954a91933b89ad8\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d0c464a7e058375bf9f3f8771e462175\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d88065ea8298896838d8a42970099a89\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d88065ea8298896838d8a42970099a89\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d82729948ec64a7f60c50f7110be3d32\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d82729948ec64a7f60c50f7110be3d32\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1085fd9ced4fd634cfcb4daa8124cdae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1085fd9ced4fd634cfcb4daa8124cdae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1c1a4f392c2152e721d0345e8ab44f87\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1c1a4f392c2152e721d0345e8ab44f87\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4b27f11d935bd195b978935dfadf1671\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4b27f11d935bd195b978935dfadf1671\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21597da5351e958294f7c3089643e11c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\21597da5351e958294f7c3089643e11c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bda7235821b84f4b75af8de854e255b5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bda7235821b84f4b75af8de854e255b5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2c9991d63d2cccf69a140f971545ff45\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2c9991d63d2cccf69a140f971545ff45\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\51b50c0887c4104c8dc6208648d7d65e\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d0c464a7e058375bf9f3f8771e462175\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\51b50c0887c4104c8dc6208648d7d65e\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d0c464a7e058375bf9f3f8771e462175\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ad9cb028f9f779d4a19e2e18f40779e9\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ad9cb028f9f779d4a19e2e18f40779e9\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ad9cb028f9f779d4a19e2e18f40779e9\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ad9cb028f9f779d4a19e2e18f40779e9\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\352415d1426104eb4f7d3a8d0ab12781\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\352415d1426104eb4f7d3a8d0ab12781\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\352415d1426104eb4f7d3a8d0ab12781\AndroidManifest.xml:20:20-65
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\runtime-1.0.0.aar\54e1564f2bf01e3f9dfd2bfd03e68916\AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\runtime-1.0.0.aar\87d0d3f0a89c460d3568ff9e829c570b\AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\runtime-1.0.0.aar\54e1564f2bf01e3f9dfd2bfd03e68916\AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\runtime-1.0.0.aar\87d0d3f0a89c460d3568ff9e829c570b\AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\runtime-1.0.0.aar\54e1564f2bf01e3f9dfd2bfd03e68916\AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lenovo\Desktop\ICM\caches\transforms-1\files-1.1\runtime-1.0.0.aar\87d0d3f0a89c460d3568ff9e829c570b\AndroidManifest.xml:26:13-58

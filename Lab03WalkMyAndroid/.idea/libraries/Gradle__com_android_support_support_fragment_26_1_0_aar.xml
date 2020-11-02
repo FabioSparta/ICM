@@ -1,13 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:support-fragment:26.1.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c4b752fff3e60e24af5a0afd2d4a392f/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c4b752fff3e60e24af5a0afd2d4a392f/res" />
-      <root url="file://$PROJECT_DIR$/../../../caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c4b752fff3e60e24af5a0afd2d4a392f/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1e43e8f7cceb67413a7dd5815c3d316d/res" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1c1a4f392c2152e721d0345e8ab44f87/res" />
+      <root url="jar://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1c1a4f392c2152e721d0345e8ab44f87/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/ICM/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1c1a4f392c2152e721d0345e8ab44f87/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/modules-2/files-2.1/com.android.support/support-fragment/26.1.0/8279b00f5194701ff18363fa2958c5a26670b0ef/support-fragment-26.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/ICM/caches/modules-2/files-2.1/com.android.support/support-fragment/26.1.0/8279b00f5194701ff18363fa2958c5a26670b0ef/support-fragment-26.1.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
